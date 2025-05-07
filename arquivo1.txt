@@ -12,6 +12,3 @@ conteudo 23 com rebase
 conteudo 24 com rebase
 conteudo 25 com rebase
 conteudo 25 com rebase
-conteudo 25 com rebase
-conteudo 25 com rebase
-conteudo 25 com rebase
